@@ -1,2 +1,5 @@
 # robofriends
-react js
+
+npm install
+
+npm start
